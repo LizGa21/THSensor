@@ -8,8 +8,8 @@
 #define DHTTYPE DHT11   // DHT 22  (AM2302), AM2321
 
 /*Put your SSID & Password*/
-const char* ssid = "HUAWEI P30 lite";  // Enter SSID here
-const char* password = "lu123liz";  //Enter Password here
+const char* ssid = "Red's Name";  // Enter SSID here
+const char* password = "Red's Password";  //Enter Password here
 
 ESP8266WebServer server(80);
 
